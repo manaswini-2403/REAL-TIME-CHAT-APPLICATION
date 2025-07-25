@@ -80,7 +80,10 @@ realtime-chat-app/
 ```
 
 ### Screenshots
-
+<img width="1915" height="1000" alt="Image" src="https://github.com/user-attachments/assets/1e26dcf5-0e25-4fbb-949c-920c94b74933" />
+<img width="1705" height="845" alt="Image" src="https://github.com/user-attachments/assets/e5a07a14-27b2-4300-a3c6-45cdbce0c0a3" />
+<img width="1919" height="945" alt="Image" src="https://github.com/user-attachments/assets/704e7d42-708a-4aec-9844-20c431c64eb2" />
+<img width="1909" height="999" alt="Image" src="https://github.com/user-attachments/assets/4744bd73-fe73-4930-ab21-069d63018837" />
 
 ### Troubleshooting
 - **Backend Issues**:
